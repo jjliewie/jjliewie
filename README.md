@@ -1,4 +1,10 @@
-### Hi there 👋
+### hi! 
+
+I'm Julie, and I'm a highschool student.
+
+Most of my repositories are private...
+
+I'm currently just going through leetcode and solving problems & learning algorithms.
 
 <!--
 **jjliewie/jjliewie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
