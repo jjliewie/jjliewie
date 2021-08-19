@@ -2,7 +2,7 @@
 
 I'm Julie, and I'm a highschool student.
 
-Most of my repositories are private...
+Most of my repositories are private & I've only been using github since recently...
 
 I'm currently just going through leetcode and solving problems & learning algorithms.
 
