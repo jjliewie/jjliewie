@@ -6,7 +6,7 @@ Most of my repositories are private & I've only been using github since recently
 
 I'm currently just going through leetcode and solving problems & learning algorithms.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie)](https://github.com/jjliewie/jjliewie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie&layout=compact)](https://github.com/jjliewie/jjliewie)
 
 
 <!--
