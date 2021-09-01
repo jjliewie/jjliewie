@@ -1,6 +1,6 @@
 ### hi! 
 
-I'm Julie, and I'm a highschool student.
+I'm jjliewie, and I'm a highschool student.
 
 Most of my repositories are private & I've only been using github since recently...
 
