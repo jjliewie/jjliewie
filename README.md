@@ -6,6 +6,8 @@ I'm currently just going through leetcode and solving problems & learning algori
 
 I'm also making a lot of demos on js canvas!
 
+- developing an IOS app rn!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie&layout=compact)](https://github.com/jjliewie/jjliewie)
 
 
