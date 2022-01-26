@@ -8,6 +8,7 @@ I'm also making a lot of demos on js canvas!
 
 - developing an IOS app rn!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie&layout=compact)](https://github.com/jjliewie/jjliewie)
 
 <!--
 **jjliewie/jjliewie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
