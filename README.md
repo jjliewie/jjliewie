@@ -10,6 +10,8 @@ I'm also making a lot of demos on js canvas!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie&layout=compact)](https://github.com/jjliewie/jjliewie)
 
+[![Jjliewie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjliewie)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jjliewie/jjliewie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
