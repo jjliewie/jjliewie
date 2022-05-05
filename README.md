@@ -8,9 +8,9 @@ I'm also making a lot of demos on js canvas!
 
 - developing an IOS app rn!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie&layout=compact)](https://github.com/jjliewie/jjliewie&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjliewie&layout=compact&show_icons=true&theme=cobalt)](https://github.com/jjliewie/jjliewie)
 
-[![Jjliewie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjliewie)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+[![Jjliewie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjliewie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jjliewie/jjliewie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
